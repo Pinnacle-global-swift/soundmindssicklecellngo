@@ -148,9 +148,8 @@ export function DonationForm() {
             <p className="mb-4 font-medium">Please transfer your donation to one of the following bank accounts:</p>
             <div className="space-y-6">
               {[
-                { bank: "First Bank", accountName: "Sickle Cell Foundation Nigeria", accountNumber: "2031567890" },
-                { bank: "GTBank", accountName: "Sickle Cell Foundation Nigeria", accountNumber: "0124567890" },
-                { bank: "Zenith Bank", accountName: "Sickle Cell Foundation Nigeria", accountNumber: "1056789012" },
+                { bank: "United Bank For Africa", accountName: "SHEDRACK E ESELEMO", accountNumber: "2058910827" },
+                { bank: "WAMA BANK", accountName: "SHEDRACK E ESELEMO", accountNumber: "0240088237" },
               ].map((account, index) => (
                 <motion.div
                   key={index}
