@@ -10,7 +10,7 @@ import { Label } from "@/components/ui/label"
 import { Textarea } from "@/components/ui/textarea"
 
 export const metadata = {
-  title: "Resources & Support | SickleCell Info",
+  title: "Resources & Support | Soundminds Sicklecell-Association",
   description:
     "Comprehensive resources, support groups, educational materials, and assistance programs for people affected by sickle cell disease.",
 }

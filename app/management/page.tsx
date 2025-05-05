@@ -8,7 +8,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion"
 
 export const metadata = {
-  title: "Living with Sickle Cell Disease | SickleCell Info",
+  title: "Living with Sickle Cell Disease | Soundminds Sicklecell-Association",
   description:
     "Comprehensive strategies for managing sickle cell disease and improving quality of life, including pain management, lifestyle adjustments, and coping strategies.",
 }

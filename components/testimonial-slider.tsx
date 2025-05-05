@@ -17,7 +17,7 @@ const testimonials: Testimonial[] = [
   {
     id: 1,
     quote:
-      "The information and resources provided by SickleCell Info have been invaluable in helping me understand and manage my condition. I feel empowered to take control of my health.",
+      "The information and resources provided by Soundminds Sicklecell-Association have been invaluable in helping me understand and manage my condition. I feel empowered to take control of my health.",
     author: "Sarah Johnson",
     role: "Living with Sickle Cell Disease",
     image:
@@ -26,7 +26,7 @@ const testimonials: Testimonial[] = [
   {
     id: 2,
     quote:
-      "As a healthcare provider, I regularly refer my patients to SickleCell Info for reliable, up-to-date information. The resources are comprehensive and presented in an accessible way.",
+      "As a healthcare provider, I regularly refer my patients to Soundminds Sicklecell-Association for reliable, up-to-date information. The resources are comprehensive and presented in an accessible way.",
     author: "Dr. Michael Chen",
     role: "Hematologist",
     image:
@@ -44,7 +44,7 @@ const testimonials: Testimonial[] = [
   {
     id: 4,
     quote:
-      "Volunteering with SickleCell Info has been a rewarding experience. I've seen firsthand how education and awareness can make a real difference in people's lives.",
+      "Volunteering with Soundminds Sicklecell-Association has been a rewarding experience. I've seen firsthand how education and awareness can make a real difference in people's lives.",
     author: "Maria Rodriguez",
     role: "Volunteer",
     image:

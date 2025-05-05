@@ -95,7 +95,7 @@ export function SiteFooter() {
               <div className="relative w-10 h-10 flex items-center justify-center bg-brand-green rounded-full">
                 <Activity className="h-6 w-6 text-white" />
               </div>
-              <span className="font-bold text-xl">SickleCell Info</span>
+              <span className="font-bold text-xl">Soundminds Sicklecell-Association</span>
             </div>
             <p className="text-sm text-white/70">
               Providing comprehensive information, support, and resources for those affected by sickle cell disease.
@@ -205,7 +205,7 @@ export function SiteFooter() {
 
         <div className="border-t border-white/10 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-sm text-white/50 mb-4 md:mb-0">
-            © {new Date().getFullYear()} SickleCell Info. All rights reserved.
+            © {new Date().getFullYear()} Soundminds Sicklecell-Association. All rights reserved.
           </p>
           <div className="flex flex-wrap justify-center gap-4 md:gap-6">
             <Link href="/privacy" className="text-sm text-white/50 hover:text-brand-green transition-colors">
