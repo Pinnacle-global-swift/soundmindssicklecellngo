@@ -75,7 +75,7 @@ const volunteerEvents = [
     title: "Volunteer Orientation",
     date: "June 15, 2025",
     time: "6:00 PM - 8:00 PM",
-    location: "SickleCell Info Headquarters",
+    location: "Soundminds Sicklecell-Association Headquarters",
     description: "Introduction to our organization, volunteer opportunities, and training.",
   },
   {

@@ -57,7 +57,7 @@ export function MobileNav() {
               <div className="relative w-8 h-8 flex items-center justify-center bg-brand-green rounded-full">
                 <Activity className="h-4 w-4 text-white" />
               </div>
-              <span className="font-bold text-lg text-gray-900">SickleCell Info</span>
+              <span className="font-bold text-lg text-gray-900">Soundminds Sicklecell-Association</span>
             </Link>
             <Button
               variant="ghost"

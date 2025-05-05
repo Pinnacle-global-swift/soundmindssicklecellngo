@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 
 export const metadata = {
-  title: "Symptoms & Diagnosis | SickleCell Info",
+  title: "Symptoms & Diagnosis | Soundminds Sicklecell-Association",
   description: "Learn about the symptoms of sickle cell disease and how it is diagnosed.",
 }
 

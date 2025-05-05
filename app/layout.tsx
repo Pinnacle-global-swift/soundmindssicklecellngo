@@ -13,7 +13,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: {
     default: "Sickle Cell Disease Information",
-    template: "%s | SickleCell Info",
+    template: "%s | Soundminds Sicklecell-Association",
   },
   description:
     "Comprehensive information about sickle cell disease, including causes, symptoms, diagnosis, treatment options, and management strategies.",
@@ -29,9 +29,9 @@ export const metadata: Metadata = {
     "research",
     "support",
   ],
-  authors: [{ name: "SickleCell Info" }],
-  creator: "SickleCell Info",
-  publisher: "SickleCell Info",
+  authors: [{ name: "Soundminds Sicklecell-Association" }],
+  creator: "Soundminds Sicklecell-Association",
+  publisher: "Soundminds Sicklecell-Association",
   formatDetection: {
     email: false,
     address: false,
@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     title: "Sickle Cell Disease Information",
     description:
       "Comprehensive information about sickle cell disease, including causes, symptoms, diagnosis, treatment options, and management strategies.",
-    siteName: "SickleCell Info",
+    siteName: "Soundminds Sicklecell-Association",
   },
   twitter: {
     card: "summary_large_image",
