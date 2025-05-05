@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 
 export const metadata = {
-  title: "Symptoms & Diagnosis | Soundminds Sicklecell-Association",
+  title: "Symptoms & Diagnosis | SickleCell Info",
   description: "Learn about the symptoms of sickle cell disease and how it is diagnosed.",
 }
 
@@ -25,10 +25,11 @@ export default function SymptomsPage() {
 
         <div className="relative aspect-video overflow-hidden rounded-xl">
           <Image
-            src="https://images.unsplash.com/photo-1612277795421-9bc7706a4a41?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
-            alt="Medical professional examining a patient"
+            src="https://images.unsplash.com/photo-1579684385127-1ef15d508118?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+            alt="Healthcare professional examining blood samples"
             fill
             className="object-cover"
+            priority
           />
         </div>
 

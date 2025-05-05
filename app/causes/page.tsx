@@ -5,7 +5,7 @@ import { ArrowRight } from "lucide-react"
 import { Button } from "@/components/ui/button"
 
 export const metadata = {
-  title: "Causes & Risk Factors | Soundminds Sicklecell-Association",
+  title: "Causes & Risk Factors | SickleCell Info",
   description: "Learn about the genetic causes and risk factors of sickle cell disease.",
 }
 

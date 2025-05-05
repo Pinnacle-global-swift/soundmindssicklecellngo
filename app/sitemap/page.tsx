@@ -4,8 +4,8 @@ import { ArrowRight } from "lucide-react"
 import { Button } from "@/components/ui/button"
 
 export const metadata = {
-  title: "Sitemap | Soundminds Sicklecell-Association",
-  description: "A complete map of all pages on the Soundminds Sicklecell-Association website.",
+  title: "Sitemap | SickleCell Info",
+  description: "A complete map of all pages on the SickleCell Info website.",
 }
 
 export default function SitemapPage() {
@@ -25,7 +25,7 @@ export default function SitemapPage() {
         <div className="space-y-4">
           <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-brand-green">Sitemap</h1>
           <p className="text-gray-500 md:text-xl dark:text-gray-400">
-            A complete map of all pages on the Soundminds Sicklecell-Association website.
+            A complete map of all pages on the SickleCell Info website.
           </p>
         </div>
 

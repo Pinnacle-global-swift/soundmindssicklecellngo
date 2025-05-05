@@ -8,7 +8,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Badge } from "@/components/ui/badge"
 
 export const metadata = {
-  title: "Research & Clinical Trials | Soundminds Sicklecell-Association",
+  title: "Research & Clinical Trials | SickleCell Info",
   description:
     "Latest research developments, ongoing clinical trials, and opportunities to participate in studies related to sickle cell disease.",
 }

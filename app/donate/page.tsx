@@ -5,7 +5,7 @@ import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle }
 import { DonationForm } from "@/components/donation-form"
 
 export const metadata = {
-  title: "Donate | Soundminds Sicklecell-Association",
+  title: "Donate | SickleCell Info",
   description:
     "Support our mission to improve the lives of those affected by sickle cell disease through your generous donation.",
 }
@@ -84,7 +84,7 @@ export default function DonatePage() {
                 <div className="space-y-2">
                   <h3 className="font-medium">Planned Giving</h3>
                   <p className="text-sm text-gray-500">
-                    Include Soundminds Sicklecell-Association in your estate planning to create a lasting legacy.
+                    Include SickleCell Info in your estate planning to create a lasting legacy.
                   </p>
                 </div>
                 <div className="space-y-2">

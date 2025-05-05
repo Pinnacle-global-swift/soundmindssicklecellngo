@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardHeader } from "@/components/ui/card"
 
 export const metadata = {
-  title: "Your Impact | Soundminds Sicklecell-Association",
+  title: "Your Impact | SickleCell Info",
   description: "See how your donations make a difference in the lives of those affected by sickle cell disease.",
 }
 
@@ -228,7 +228,7 @@ export default function ImpactPage() {
               <h3 className="text-lg font-bold text-brand-green mb-2">Family Support</h3>
               <p className="text-gray-600 mb-4">
                 "When my son was diagnosed with sickle cell disease, I felt overwhelmed. The support group and
-                educational resources provided by Soundminds Sicklecell-Association helped us understand the condition and connect with
+                educational resources provided by SickleCell Info helped us understand the condition and connect with
                 other families. It made all the difference in our journey."
               </p>
               <div className="flex items-center">

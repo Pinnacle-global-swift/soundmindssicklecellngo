@@ -72,7 +72,7 @@ export function SiteHeader() {
               <div className="relative w-10 h-10 flex items-center justify-center bg-brand-green rounded-full shadow-sm">
                 <Activity className="h-6 w-6 text-white" />
               </div>
-              <span className="font-bold text-xl text-gray-900">SMICKLE</span>
+              <span className="font-bold text-xl text-gray-900">SickleCell Info</span>
             </Link>
 
             <div className="hidden lg:flex lg:items-center">

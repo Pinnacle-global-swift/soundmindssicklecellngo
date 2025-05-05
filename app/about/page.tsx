@@ -7,7 +7,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 
 export const metadata = {
-  title: "Understanding Sickle Cell Disease | Soundminds Sicklecell-Association",
+  title: "Understanding Sickle Cell Disease | SickleCell Info",
   description:
     "Comprehensive information about what sickle cell disease is, its types, causes, and how it affects people worldwide.",
 }

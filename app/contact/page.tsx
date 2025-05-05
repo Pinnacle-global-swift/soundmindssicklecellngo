@@ -7,7 +7,7 @@ import { Mail, MapPin, Phone } from "lucide-react"
 import Image from "next/image"
 
 export const metadata = {
-  title: "Contact Us | Soundminds Sicklecell-Association",
+  title: "Contact Us | SickleCell Info",
   description: "Get in touch with our team for questions, feedback, or support regarding sickle cell disease.",
 }
 

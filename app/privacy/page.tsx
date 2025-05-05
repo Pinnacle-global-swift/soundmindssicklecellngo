@@ -3,7 +3,7 @@ import { ArrowRight } from "lucide-react"
 import { Button } from "@/components/ui/button"
 
 export const metadata = {
-  title: "Privacy Policy | Soundminds Sicklecell-Association",
+  title: "Privacy Policy | SickleCell Info",
   description: "Our commitment to protecting your privacy and personal information.",
 }
 
@@ -20,7 +20,7 @@ export default function PrivacyPage() {
 
         <div className="prose prose-lg max-w-none">
           <p>
-            At Soundminds Sicklecell-Association, we are committed to protecting your privacy and personal information. This Privacy
+            At SickleCell Info, we are committed to protecting your privacy and personal information. This Privacy
             Policy explains how we collect, use, disclose, and safeguard your information when you visit our website.
           </p>
 
