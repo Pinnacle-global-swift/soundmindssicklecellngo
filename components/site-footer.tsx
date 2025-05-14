@@ -175,7 +175,7 @@ export function SiteFooter() {
               </li>
               <li className="flex items-center">
                 <Mail className="h-5 w-5 text-brand-green mr-2 flex-shrink-0" />
-                <span className="text-white/70">info@sicklecellinfo.org</span>
+                <span className="text-white/70">soundmindssicklecellngo@gmail.com</span>
               </li>
             </ul>
 

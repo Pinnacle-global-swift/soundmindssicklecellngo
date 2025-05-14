@@ -73,7 +73,7 @@ export default function ContactPage() {
                   <Mail className="h-5 w-5 text-blue-600 dark:text-blue-400 mt-0.5" />
                   <div>
                     <h3 className="font-medium">Email</h3>
-                    <p className="text-sm text-muted-foreground">info@sicklecellinfo.org</p>
+                    <p className="text-sm text-muted-foreground">soundmindssicklecellngo@gmail.com</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-4">

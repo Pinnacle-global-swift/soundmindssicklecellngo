@@ -36,14 +36,14 @@ export function SiteHeader() {
           <div className="flex items-center space-x-6">
             <a href="tel:+1234567890" className="flex items-center text-sm hover:text-white/80 transition-colors">
               <Phone className="h-3.5 w-3.5 mr-1.5" />
-              <span>(123) 456-7890</span>
+              <span>07067066599</span>
             </a>
             <a
-              href="mailto:info@sicklecellinfo.org"
+              href="mailto:soundmindssicklecellngo@gmail.com"
               className="flex items-center text-sm hover:text-white/80 transition-colors"
             >
               <Mail className="h-3.5 w-3.5 mr-1.5" />
-              <span>info@sicklecellinfo.org</span>
+              <span>soundmindssicklecellngo@gmail.com</span>
             </a>
           </div>
           <div className="flex items-center space-x-6">

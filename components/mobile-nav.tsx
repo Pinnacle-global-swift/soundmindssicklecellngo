@@ -91,14 +91,14 @@ export function MobileNav() {
               className="flex items-center text-sm text-gray-600 hover:text-brand-green transition-colors"
             >
               <Phone className="h-4 w-4 mr-2 text-brand-green" />
-              <span>(123) 456-7890</span>
+              <span>07067066599</span>
             </a>
             <a
-              href="mailto:info@sicklecellinfo.org"
+              href="mailto:soundmindssicklecellngo@gmail.com"
               className="flex items-center text-sm text-gray-600 hover:text-brand-green transition-colors"
             >
               <Mail className="h-4 w-4 mr-2 text-brand-green" />
-              <span>info@sicklecellinfo.org</span>
+              <span>soundmindssicklecellngo@gmail.com</span>
             </a>
           </div>
 
