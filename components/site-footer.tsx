@@ -171,7 +171,7 @@ export function SiteFooter() {
               </li>
               <li className="flex items-center">
                 <Phone className="h-5 w-5 text-brand-green mr-2 flex-shrink-0" />
-                <span className="text-white/70">(555) 123-4567</span>
+                <span className="text-white/70">07067066599</span>
               </li>
               <li className="flex items-center">
                 <Mail className="h-5 w-5 text-brand-green mr-2 flex-shrink-0" />

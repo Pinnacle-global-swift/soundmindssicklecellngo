@@ -108,7 +108,7 @@ export default function TermsPage() {
           <p className="mt-2">
             <strong>Email:</strong> legal@sicklecellinfo.org
             <br />
-            <strong>Phone:</strong> (555) 123-4567
+            <strong>Phone:</strong> 07067066599
             <br />
             <strong>Address:</strong> 123 Health Avenue, Medical District, New York, NY 10001
           </p>

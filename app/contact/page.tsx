@@ -80,7 +80,7 @@ export default function ContactPage() {
                   <Phone className="h-5 w-5 text-blue-600 dark:text-blue-400 mt-0.5" />
                   <div>
                     <h3 className="font-medium">Phone</h3>
-                    <p className="text-sm text-muted-foreground">(555) 123-4567</p>
+                    <p className="text-sm text-muted-foreground">07067066599</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-4">
@@ -92,7 +92,7 @@ export default function ContactPage() {
                       <br />
                       Medical District
                       <br />
-                      New York, NY 10001
+                      Warri sapele road
                     </p>
                   </div>
                 </div>
