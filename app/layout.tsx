@@ -12,22 +12,27 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: {
-    default: "Sickle Cell Disease Information",
-    template: "%s | Soundminds Sicklecell-Association",
+    default: "Soundminds Sickle Cell Foundation | Support & Education",
+    template: "%s | Soundminds Sickle Cell Foundation",
   },
   description:
-    "Comprehensive information about sickle cell disease, including causes, symptoms, diagnosis, treatment options, and management strategies.",
+    "Join Soundminds Sickle Cell Foundation in our mission to support, educate, and empower individuals affected by Sickle Cell Disease. Find resources, treatment information, support networks, and ways to get involved in our community. Together, we can make a difference.",
   keywords: [
     "sickle cell disease",
     "sickle cell anemia",
-    "SCD",
-    "blood disorder",
-    "genetic disease",
-    "hemoglobin",
-    "treatments",
-    "management",
-    "research",
-    "support",
+    "SCD awareness",
+    "blood disorder support",
+    "genetic disease education",
+    "hemoglobin disorders",
+    "sickle cell treatments",
+    "disease management",
+    "medical research",
+    "patient support",
+    "community outreach",
+    "healthcare resources",
+    "genetic counseling",
+    "blood transfusion",
+    "pain management",
   ],
   authors: [{ name: "Soundminds Sicklecell-Association" }],
   creator: "Soundminds Sicklecell-Association",
@@ -41,17 +46,17 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     url: "https://sicklecellinfo.org",
-    title: "Sickle Cell Disease Information",
+    title: "Soundminds Sickle Cell Foundation | Support & Education",
     description:
-      "Comprehensive information about sickle cell disease, including causes, symptoms, diagnosis, treatment options, and management strategies.",
-    siteName: "Soundminds Sicklecell-Association",
+      "Join Soundminds Sickle Cell Foundation in our mission to support, educate, and empower individuals affected by Sickle Cell Disease. Find resources, treatment information, and support networks.",
+    siteName: "Soundminds Sickle Cell Foundation",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Sickle Cell Disease Information",
+    title: "Soundminds Sickle Cell Foundation | Support & Education",
     description:
-      "Comprehensive information about sickle cell disease, including causes, symptoms, diagnosis, treatment options, and management strategies.",
-    creator: "@sicklecellinfo",
+      "Join Soundminds Sickle Cell Foundation in our mission to support, educate, and empower individuals affected by Sickle Cell Disease. Find resources and support.",
+    creator: "@soundmindsSCD",
   },
   icons: {
     icon: "/smickle-logo.png",
@@ -59,7 +64,7 @@ export const metadata: Metadata = {
     apple: "/smickle-logo.png",
   },
   manifest: "/site.webmanifest",
-    generator: 'v0.dev'
+  generator: 'v0.dev'
 }
 
 export default function RootLayout({
