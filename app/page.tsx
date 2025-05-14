@@ -396,7 +396,7 @@ export default function Home() {
           <div className="flex flex-col items-center justify-center space-y-4 text-center">
             <div className="space-y-2">
               <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl text-white">Join Our Community</h2>
-              <p className="max-w-[600px] text-gray-300 md:text-xl/relaxed mx-auto">
+              <p className="max-w-[600px] text-brand-green md:text-xl/relaxed mx-auto">
                 Connect with others affected by sickle cell disease and stay updated on the latest information.
               </p>
             </div>

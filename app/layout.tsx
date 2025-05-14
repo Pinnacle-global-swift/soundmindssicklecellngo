@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     "blood disorder",
     "genetic disease",
     "hemoglobin",
-    "treatment",
+    "treatments",
     "management",
     "research",
     "support",
