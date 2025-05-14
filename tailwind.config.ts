@@ -21,7 +21,8 @@ const config = {
     extend: {
       colors: {
         // Primary Colors
-        "brand-green": "#006400", // Dark Green
+        "brand-red": "#FF0000", // SMICKLE Red
+        "brand-green": "#006400", // Keeping as secondary
         "brand-navy": "#1A237E",
         "brand-teal": "#00796B",
 

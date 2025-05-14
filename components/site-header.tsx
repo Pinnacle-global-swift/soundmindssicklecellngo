@@ -2,7 +2,8 @@
 
 import { useState, useEffect } from "react"
 import Link from "next/link"
-import { Activity, Heart, Phone, Mail, Search } from "lucide-react"
+import { Heart, Phone, Mail, Search } from "lucide-react"
+import Image from "next/image"
 import { motion, AnimatePresence } from "framer-motion"
 import { Button } from "@/components/ui/button"
 import { MobileNav } from "@/components/mobile-nav"
@@ -31,7 +32,7 @@ export function SiteHeader() {
   return (
     <>
       {/* Top bar with contact info */}
-      <div className="hidden lg:block w-full bg-brand-green text-white py-1.5">
+      <div className="hidden lg:block w-full bg-brand-red text-white py-1.5">
         <div className="container flex justify-between items-center">
           <div className="flex items-center space-x-6">
             <a href="tel:+1234567890" className="flex items-center text-sm hover:text-white/80 transition-colors">
@@ -69,8 +70,13 @@ export function SiteHeader() {
         <div className="container flex h-16 items-center justify-between">
           <div className="flex items-center">
             <Link href="/" className="flex items-center space-x-2 mr-8">
-              <div className="relative w-10 h-10 flex items-center justify-center bg-brand-green rounded-full shadow-sm">
-                <Activity className="h-6 w-6 text-white" />
+              <div className="relative w-10 h-10">
+                <Image
+                  src="/smickle-logo.png" // Make sure to add the logo file to the public folder
+                  alt="SMICKLE Logo"
+                  fill
+                  className="object-contain"
+                />
               </div>
               <span className="font-bold text-xl text-gray-900">SMICKLE</span>
             </Link>
@@ -90,10 +96,10 @@ export function SiteHeader() {
                   <Link
                     key={item.href}
                     href={item.href}
-                    className="relative px-3 py-2 text-gray-700 hover:text-brand-green transition-colors group"
+                    className="relative px-3 py-2 text-gray-700 hover:text-brand-red transition-colors group"
                   >
                     <span className="relative z-10 font-medium text-sm">{item.label}</span>
-                    <span className="absolute bottom-0 left-0 w-full h-0.5 bg-brand-green scale-x-0 group-hover:scale-x-100 transition-transform origin-left duration-300"></span>
+                    <span className="absolute bottom-0 left-0 w-full h-0.5 bg-brand-red scale-x-0 group-hover:scale-x-100 transition-transform origin-left duration-300"></span>
                   </Link>
                 ))}
               </nav>
@@ -134,7 +140,7 @@ export function SiteHeader() {
             </AnimatePresence>
 
             <Link href="/donate">
-              <Button className="hidden md:flex bg-brand-green hover:bg-brand-green/90 text-white shadow-sm">
+              <Button className="hidden md:flex bg-brand-red hover:bg-brand-red/90 text-white shadow-sm">
                 <Heart className="mr-2 h-4 w-4" />
                 Donate
               </Button>
@@ -143,7 +149,7 @@ export function SiteHeader() {
               <Button
                 variant="outline"
                 size="sm"
-                className="hidden md:flex bg-transparent border-gray-300 text-gray-700 hover:bg-gray-50 hover:text-brand-green hover:border-brand-green transition-colors"
+                className="hidden md:flex bg-transparent border-gray-300 text-gray-700 hover:bg-gray-50 hover:text-brand-red hover:border-brand-red transition-colors"
               >
                 Contact Us
               </Button>

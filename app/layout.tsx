@@ -54,9 +54,9 @@ export const metadata: Metadata = {
     creator: "@sicklecellinfo",
   },
   icons: {
-    icon: "/favicon.ico",
-    shortcut: "/favicon-16x16.png",
-    apple: "/apple-touch-icon.png",
+    icon: "/smickle-logo.png",
+    shortcut: "/smickle-logo.png",
+    apple: "/smickle-logo.png",
   },
   manifest: "/site.webmanifest",
     generator: 'v0.dev'
