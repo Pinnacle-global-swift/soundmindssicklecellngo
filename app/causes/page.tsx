@@ -24,7 +24,7 @@ export default function CausesPage() {
 
         <div className="relative aspect-video overflow-hidden rounded-xl">
           <Image
-            src="https://images.unsplash.com/photo-1659535824233-966cc8de61a5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+            src="premium_photo-1661667076169-90d6c6e2d3f0.avif"
             alt="DNA helix illustration representing genetic causes"
             fill
             className="object-cover"

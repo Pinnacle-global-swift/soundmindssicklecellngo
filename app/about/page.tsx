@@ -28,7 +28,7 @@ export default function AboutPage() {
 
         <div className="relative aspect-video overflow-hidden rounded-xl shadow-xl">
           <Image
-            src="https://images.unsplash.com/photo-1579154204601-01588f351e67?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+            src="photo-1747889268735-31192c2a6df4.avif"
             alt="Medical researcher examining blood samples in laboratory"
             fill
             className="object-cover"

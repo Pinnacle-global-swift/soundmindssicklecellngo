@@ -17,7 +17,7 @@ export default function ContactPage() {
       <div className="mx-auto max-w-3xl space-y-12">
         <div className="relative aspect-video overflow-hidden rounded-xl mb-12">
           <Image
-            src="https://images.unsplash.com/photo-1560264280-88b68371db39?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+            src="istockphoto-2156374836-612x612.jpg"
             alt="Customer support team ready to help"
             fill
             className="object-cover"

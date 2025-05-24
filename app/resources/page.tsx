@@ -31,7 +31,7 @@ export default function ResourcesPage() {
 
         <div className="relative aspect-video overflow-hidden rounded-xl shadow-xl">
           <Image
-            src="https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+            src="photo-1673280401361-7b8378271a1b.avif"
             alt="Support group meeting with diverse participants"
             fill
             className="object-cover"
